@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repos
+title: repos
 description: 
 nav: true
 nav_order: 4
