@@ -1,5 +1,5 @@
 ---
-name: cv
+name: CV
 nav: true
 permalink: /cv/
 layout: redirect
