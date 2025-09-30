@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+nav: true
 permalink: /
 subtitle: <a href='https://www.athenarc.gr/'>Developer at Athena Research Center</a>. 
 
