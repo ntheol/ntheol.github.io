@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-",
+  },{id: "nav-page-not-found",
+          title: "Page not found",
+          description: "Looks like there has been a mistake. Nothing exists here.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/404.html";
+          },
+        },{id: "nav-about",
+          title: "about",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-",
           title: "",
           description: "",
           section: "Navigation",
