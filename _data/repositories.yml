@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ntheol
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - athenarc/FACTS-Fairness-Aware-Counterfactuals-for-Subgroups 
+  - athenarc/FALE-Fairness-Aware-ALE-Plots 
+  - athenarc/GLANCE-Global-Actions-in-a-Nutshell-for-Counterfactual-Explainability
+  - athenarc/GLOVES
+  - humancompatible/explain
+  - extremexp-HORIZON/extremexp-explainability-module
